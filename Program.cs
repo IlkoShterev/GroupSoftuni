@@ -12,6 +12,7 @@ namespace test
         {
             Console.WriteLine("Hello");
             Console.WriteLine("My name is Ilko Shterev ");
+            Console.WriteLine("My email address is : ilko.shterev@gmail.com ");
         }
     }
 }
